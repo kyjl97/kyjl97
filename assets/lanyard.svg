@@ -1,23 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="660" viewBox="0 0 520 660" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="760" viewBox="0 0 500 760" role="img" aria-labelledby="title desc">
   <title id="title">得救之道个人工牌</title>
-  <desc id="desc">kyjl97 的个人资料工牌</desc>
+  <desc id="desc">kyjl97 的黑色竖向个人工牌</desc>
   <defs>
-    <linearGradient id="strap" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a855f7"/><stop offset=".55" stop-color="#f97316"/><stop offset="1" stop-color="#fde68a"/></linearGradient>
-    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#020617" flood-opacity=".32"/></filter>
+    <linearGradient id="strap" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0b0d"/><stop offset="1" stop-color="#34343a"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#32c5f4"/><stop offset="1" stop-color="#8367f3"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-20%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#111827" flood-opacity=".24"/></filter>
+    <pattern id="bars" width="13" height="54" patternUnits="userSpaceOnUse"><rect width="3" height="54" fill="#f8fafc"/><rect x="6" width="2" height="54" fill="#f8fafc"/></pattern>
   </defs>
-  <path d="M116 0L226 214M404 0L294 214" fill="none" stroke="url(#strap)" stroke-width="34"/>
-  <path d="M116 0L226 214M404 0L294 214" fill="none" stroke="#fff" stroke-opacity=".16" stroke-width="3"/>
-  <rect x="210" y="168" width="100" height="64" rx="18" fill="#1e293b" stroke="#475569" stroke-width="4"/>
-  <rect x="80" y="210" width="360" height="410" rx="34" fill="url(#card)" filter="url(#shadow)"/>
-  <rect x="80" y="210" width="360" height="410" rx="34" fill="none" stroke="#f97316" stroke-opacity=".5" stroke-width="3"/>
-  <rect x="111" y="246" width="298" height="12" rx="6" fill="url(#strap)"/>
-  <circle cx="260" cy="343" r="68" fill="url(#strap)"/>
-  <circle cx="260" cy="343" r="57" fill="#0f172a" stroke="#fde68a" stroke-width="2"/>
-  <text x="260" y="366" text-anchor="middle" font-family="serif" font-size="66" font-weight="800" fill="#fde68a">道</text>
-  <text x="260" y="449" text-anchor="middle" font-family="serif" font-size="38" font-weight="800" letter-spacing="6" fill="#f8fafc">得救之道</text>
-  <text x="260" y="488" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="22" letter-spacing="3" fill="#93c5fd">@kyjl97</text>
-  <line x1="135" y1="518" x2="385" y2="518" stroke="#334155" stroke-width="2"/>
-  <text x="260" y="555" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18" letter-spacing="2" fill="#fde68a">记录 · 探索 · 成长</text>
-  <text x="260" y="586" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="13" letter-spacing="2" fill="#64748b">CREATOR / LEARNER / BUILDER</text>
+  <path d="M134 -20L225 178M366 -20L275 178" fill="none" stroke="url(#strap)" stroke-width="34"/>
+  <path d="M134 -20L225 178M366 -20L275 178" fill="none" stroke="#5b5b63" stroke-opacity=".45" stroke-width="2"/>
+  <text x="162" y="82" transform="rotate(66 162 82)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" letter-spacing="3" fill="#e5e7eb">DEJIZHIDAO</text>
+  <text x="338" y="82" transform="rotate(-66 338 82)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" letter-spacing="3" fill="#e5e7eb">KYJL97</text>
+  <rect x="218" y="137" width="64" height="48" rx="14" fill="#111114" stroke="#55545d" stroke-width="3"/><circle cx="250" cy="158" r="8" fill="#fafafa"/>
+  <g filter="url(#shadow)"><rect x="88" y="171" width="324" height="530" rx="27" fill="#08080a"/><rect x="89.5" y="172.5" width="321" height="527" rx="25.5" fill="none" stroke="url(#edge)" stroke-opacity=".38" stroke-width="3"/></g>
+  <rect x="116" y="208" width="268" height="6" rx="3" fill="url(#edge)"/>
+  <text x="124" y="263" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="21" font-weight="700" letter-spacing="4" fill="#f8fafc">KYJL97</text>
+  <text x="124" y="291" font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="13" letter-spacing="2" fill="#8d93a1">得救之道 · 内容创作者</text>
+  <line x1="124" y1="319" x2="376" y2="319" stroke="#2d2e34" stroke-width="2"/>
+  <g fill="none" stroke="#f8fafc" stroke-width="4" stroke-linecap="round" opacity=".92">
+    <path d="M135 388c0-39 30-70 68-70s68 31 68 70c0 36-20 70-20 104"/><path d="M155 388c0-27 21-49 48-49s48 22 48 49c0 29-17 52-17 83"/><path d="M176 388c0-15 12-28 27-28s27 13 27 28c0 22-12 37-12 61"/><path d="M197 390c0-5 3-9 8-9s8 4 8 9c0 14-7 25-7 39"/>
+  </g>
+  <text x="332" y="363" text-anchor="middle" font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="38" font-weight="800" fill="#f8fafc">得</text><text x="332" y="411" text-anchor="middle" font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="38" font-weight="800" fill="#f8fafc">救</text><text x="332" y="459" text-anchor="middle" font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="38" font-weight="800" fill="#f8fafc">之</text><text x="332" y="507" text-anchor="middle" font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="38" font-weight="800" fill="#f8fafc">道</text>
+  <text x="124" y="548" font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="14" letter-spacing="3" fill="#c6c8d0">记录 · 阅读 · 成长</text>
+  <rect x="124" y="584" width="252" height="54" fill="url(#bars)"/><rect x="130" y="584" width="5" height="54" fill="#08080a"/><rect x="157" y="584" width="7" height="54" fill="#08080a"/><rect x="211" y="584" width="4" height="54" fill="#08080a"/><rect x="276" y="584" width="8" height="54" fill="#08080a"/><rect x="347" y="584" width="5" height="54" fill="#08080a"/>
+  <text x="250" y="662" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="5" fill="#aeb3bd">K Y J L 9 7</text>
 </svg>
