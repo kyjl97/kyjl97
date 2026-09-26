@@ -14,7 +14,7 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="./assets/lanyard.svg" alt="得救之道个人工牌" width="260"/>
+<img src="./assets/lanyard.svg" alt="得救之道个人工牌" width="250"/>
 
 </td>
 <td width="70%" valign="middle">
@@ -28,7 +28,7 @@
 - 📚 实践 **知识管理与写作工作流**——从收集、整理走向稳定输出
 - 🌐 建设 **个人网站与独立博客**——打造属于自己的长期内容空间
 - 🛠️ 坚持 **用小项目验证想法**——边学习、边实践、边分享
-- 📫 个人博客：**[dejizhidao-blog.pages.dev](https://dejizhidao-blog.pages.dev/)**
+- 📫 个人主页：**[fix.jieliu.me](https://fix.jieliu.me/)**
 
 <p>💬 公众号微信搜「得救之道」或扫码关注 ↓</p>
 <img src="./assets/wechat-qr.png" alt="得救之道公众号二维码" width="220" hspace="24"/>
@@ -47,31 +47,31 @@
 
 <br/>
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-0f172a?style=for-the-badge&logo=openai&logoColor=f97316)
-![Codex](https://img.shields.io/badge/Codex-0f172a?style=for-the-badge&logo=openai&logoColor=fde68a)
-![AI Tools](https://img.shields.io/badge/AI_Tools-0f172a?style=for-the-badge&logo=sparkles&logoColor=a855f7)
-![Automation](https://img.shields.io/badge/Automation-0f172a?style=for-the-badge&logo=githubactions&logoColor=f97316)
-![Workflow](https://img.shields.io/badge/Workflow-0f172a?style=for-the-badge&logo=task&logoColor=a855f7)
+![ChatGPT](https://img.shields.io/badge/CHATGPT-101522?style=for-the-badge&logo=openai&logoColor=20c997)
+![Codex](https://img.shields.io/badge/CODEX-101522?style=for-the-badge&logo=openai&logoColor=ffffff)
+![AI Tools](https://img.shields.io/badge/AI_TOOLS-101522?style=for-the-badge&logo=sparkles&logoColor=22b8f0)
+![Automation](https://img.shields.io/badge/AUTOMATION-101522?style=for-the-badge&logo=githubactions&logoColor=8b5cf6)
+![Workflow](https://img.shields.io/badge/WORKFLOW-101522?style=for-the-badge&logo=task&logoColor=f59e0b)
 
 **开发与部署**
 
 <br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css&logoColor=93c5fd)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=fde68a)
-![Astro](https://img.shields.io/badge/Astro-0f172a?style=for-the-badge&logo=astro&logoColor=a855f7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0f172a?style=for-the-badge&logo=cloudflare&logoColor=f97316)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316)
+![HTML5](https://img.shields.io/badge/HTML5-101522?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-101522?style=for-the-badge&logo=css&logoColor=47a8ff)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-101522?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Astro](https://img.shields.io/badge/ASTRO-101522?style=for-the-badge&logo=astro&logoColor=bc52ee)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-101522?style=for-the-badge&logo=cloudflare&logoColor=f48120)
+![Git](https://img.shields.io/badge/GIT-101522?style=for-the-badge&logo=git&logoColor=f05032)
 
 **内容与知识管理**
 
 <br/>
 
-![Markdown](https://img.shields.io/badge/Markdown-0f172a?style=for-the-badge&logo=markdown&logoColor=fde68a)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)
-![Blog](https://img.shields.io/badge/独立博客-0f172a?style=for-the-badge&logo=astro&logoColor=a855f7)
-![WeChat](https://img.shields.io/badge/微信公众号-0f172a?style=for-the-badge&logo=wechat&logoColor=07c160)
+![Markdown](https://img.shields.io/badge/MARKDOWN-101522?style=for-the-badge&logo=markdown&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GITHUB-101522?style=for-the-badge&logo=github&logoColor=ffffff)
+![Blog](https://img.shields.io/badge/独立博客-101522?style=for-the-badge&logo=astro&logoColor=bc52ee)
+![WeChat](https://img.shields.io/badge/微信公众号-101522?style=for-the-badge&logo=wechat&logoColor=07c160)
 
 </div>
 
@@ -120,11 +120,11 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kyjl97&theme=radical&hide_border=true&background=0f172a&ring=f97316&fire=a855f7&currStreakLabel=fde68a&sideLabels=93c5fd&dates=64748b" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=kyjl97&theme=transparent&hide_border=true&ring=22b8f0&fire=7c5ce7&currStreakLabel=4b63c3&sideLabels=526179&dates=8390a5" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyjl97&bg_color=0f172a&color=fde68a&line=f97316&point=a855f7&area=true&area_color=f97316&hide_border=true&custom_title=贡献活跃度" alt="贡献活跃图" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyjl97&bg_color=ffffff00&color=526179&line=22b8f0&point=7c5ce7&area=true&area_color=bfeeff&hide_border=true&custom_title=贡献活跃度" alt="贡献活跃图" width="95%"/>
 
 </div>
 
@@ -134,7 +134,7 @@
 
 <div align="center">
 
-<a href="https://dejizhidao-blog.pages.dev/"><img src="https://img.shields.io/badge/🌐_得救之道博客-0f172a?style=for-the-badge&logo=cloudflare&logoColor=f97316" alt="得救之道博客"/></a>
+<a href="https://fix.jieliu.me/"><img src="https://img.shields.io/badge/🌐_得救之道主页-0f172a?style=for-the-badge&logo=cloudflare&logoColor=f97316" alt="得救之道主页"/></a>
 <a href="https://github.com/kyjl97"><img src="https://img.shields.io/badge/💻_GitHub_@kyjl97-0f172a?style=for-the-badge&logo=github&logoColor=fde68a" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/💬_微信公众号_得救之道-0f172a?style=for-the-badge&logo=wechat&logoColor=07c160" alt="微信公众号：得救之道"/>
 
