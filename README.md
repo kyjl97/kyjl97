@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner.svg">
-  <img src="./assets/banner.svg" alt="得救之道 — 内容记录与 AI 探索" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg?v=20260926-2">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner.svg?v=20260926-2">
+  <img src="./assets/banner.svg?v=20260926-2" alt="得救之道 — 内容记录与 AI 探索" width="100%"/>
 </picture>
 
 </div>
@@ -14,7 +14,7 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="./assets/lanyard.svg" alt="得救之道个人工牌" width="250"/>
+<img src="./assets/lanyard.svg?v=20260926-2" alt="得救之道个人工牌" width="250"/>
 
 </td>
 <td width="70%" valign="middle">
