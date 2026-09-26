@@ -1,62 +1,145 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:00BFA6&height=200&section=header&text=kyjl97&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Share&descAlignY=61" width="100%" alt="kyjl97 profile banner" />
 
-  <p><strong>持续学习 · 内容记录 · 博客建设</strong></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner.svg">
+  <img src="./assets/banner.svg" alt="得救之道 — 内容记录与 AI 探索" width="100%"/>
+</picture>
 
-  <a href="https://github.com/kyjl97"><img src="https://img.shields.io/badge/GitHub-kyjl97-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/公众号-得救之道-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信公众号：得救之道" />
 </div>
 
-## 👋 关于我
+<br/>
 
-你好，我是 **kyjl97**。这里记录我的学习、内容创作与持续成长。
+<table align="center" border="0">
+<tr>
+<td width="30%" align="center" valign="middle">
 
-- ✍️ 运营微信公众号 **「得救之道」**
-- 🌐 正在建设个人主页与独立博客
-- 🤖 正在探索 AI 工具、自动化与现代开发方式
-- 🛠️ 喜欢从小项目开始实践，并整理可复用的经验
+<img src="./assets/lanyard.svg" alt="得救之道个人工牌" width="260"/>
 
-## 🚀 当前计划
+</td>
+<td width="70%" valign="middle">
 
-| 📝 内容记录 | 🌐 个人空间 |
-| --- | --- |
-| 持续整理文章、笔记与思考 | 建设简洁、独立的个人博客 |
-| 🤖 工具探索 | 🛠️ 项目实践 |
-| 学习 AI 与自动化工具 | 用小项目验证想法、积累作品 |
+### 🤖 关于我
 
-## 🧭 兴趣方向
+我是 **kyjl97**，也是微信公众号 **「得救之道」** 的创作者，持续记录学习、工具与成长。
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub-开源与记录-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Markdown-内容整理-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/AI_Tools-持续探索-6E56CF?style=flat-square" alt="AI Tools" />
-  <img src="https://img.shields.io/badge/Automation-效率提升-00BFA6?style=flat-square" alt="Automation" />
-  <img src="https://img.shields.io/badge/Astro-博客建设-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-</p>
+- ✍️ 专注 **内容记录与整理**——把零散想法沉淀成可以反复阅读的文章
+- 🤖 探索 **AI 工具与自动化**——让工具真正服务于日常学习和创作
+- 📚 实践 **知识管理与写作工作流**——从收集、整理走向稳定输出
+- 🌐 建设 **个人网站与独立博客**——打造属于自己的长期内容空间
+- 🛠️ 坚持 **用小项目验证想法**——边学习、边实践、边分享
+- 📫 个人博客：**[dejizhidao-blog.pages.dev](https://dejizhidao-blog.pages.dev/)**
+
+<p>💬 公众号微信搜「得救之道」或扫码关注 ↓</p>
+<img src="./assets/wechat-qr.png" alt="得救之道公众号二维码" width="220" hspace="24"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 我的技术栈
+
+<div align="center">
+
+**AI 工具与自动化**
+
+<br/>
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0f172a?style=for-the-badge&logo=openai&logoColor=f97316)
+![Codex](https://img.shields.io/badge/Codex-0f172a?style=for-the-badge&logo=openai&logoColor=fde68a)
+![AI Tools](https://img.shields.io/badge/AI_Tools-0f172a?style=for-the-badge&logo=sparkles&logoColor=a855f7)
+![Automation](https://img.shields.io/badge/Automation-0f172a?style=for-the-badge&logo=githubactions&logoColor=f97316)
+![Workflow](https://img.shields.io/badge/Workflow-0f172a?style=for-the-badge&logo=task&logoColor=a855f7)
+
+**开发与部署**
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css&logoColor=93c5fd)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=fde68a)
+![Astro](https://img.shields.io/badge/Astro-0f172a?style=for-the-badge&logo=astro&logoColor=a855f7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0f172a?style=for-the-badge&logo=cloudflare&logoColor=f97316)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316)
+
+**内容与知识管理**
+
+<br/>
+
+![Markdown](https://img.shields.io/badge/Markdown-0f172a?style=for-the-badge&logo=markdown&logoColor=fde68a)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)
+![Blog](https://img.shields.io/badge/独立博客-0f172a?style=for-the-badge&logo=astro&logoColor=a855f7)
+![WeChat](https://img.shields.io/badge/微信公众号-0f172a?style=for-the-badge&logo=wechat&logoColor=07c160)
+
+</div>
+
+<br/>
+
+## 🎯 我正在做什么
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**✍️ 内容记录与持续输出**
+
+<br/><sub>随笔 · 教程 · 工具整理 · 成长记录</sub>
+
+<br/>把学到的内容重新组织，写成清楚、实用、可以长期保存的文章。
+
+**🤖 AI 工具与自动化探索**
+
+<br/><sub>ChatGPT · Codex · 工作流 · 效率工具</sub>
+
+<br/>研究 AI 如何进入真实的学习、内容创作和日常工作流程。
+
+</td>
+<td width="50%" valign="top">
+
+**📚 知识整理与写作工作流**
+
+<br/><sub>Markdown · 分类归档 · 素材整理 · 内容发布</sub>
+
+<br/>建立从收集、整理到发布的稳定流程，让知识持续产生价值。
+
+**🌐 个人网站与开源实践**
+
+<br/><sub>GitHub · Astro · Cloudflare Pages · 自定义域名</sub>
+
+<br/>建设「得救之道」个人博客，用小项目积累经验并分享过程。
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📊 GitHub 数据
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kyjl97&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=kyjl97&hide_border=true&theme=transparent" alt="GitHub streak" />
+
+<img src="https://streak-stats.demolab.com?user=kyjl97&theme=radical&hide_border=true&background=0f172a&ring=f97316&fire=a855f7&currStreakLabel=fde68a&sideLabels=93c5fd&dates=64748b" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyjl97&bg_color=0f172a&color=fde68a&line=f97316&point=a855f7&area=true&area_color=f97316&hide_border=true&custom_title=贡献活跃度" alt="贡献活跃图" width="95%"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyjl97&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution graph" />
-</div>
-
-## ✍️ 得救之道
-
-> 愿你在每一次阅读中，看见盼望与方向。
-
-公众号用于分享文章、思考与持续成长的记录。个人博客也在建设中，完成后会在这里更新入口。
+<br/>
 
 ## 🔗 找到我
 
-- GitHub：[@kyjl97](https://github.com/kyjl97)
-- 微信公众号：**得救之道**
-
 <div align="center">
-  <sub>Keep learning. Keep building. Keep moving forward.</sub>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFA6,100:6E56CF&height=110&section=footer" width="100%" alt="footer" />
+
+<a href="https://dejizhidao-blog.pages.dev/"><img src="https://img.shields.io/badge/🌐_得救之道博客-0f172a?style=for-the-badge&logo=cloudflare&logoColor=f97316" alt="得救之道博客"/></a>
+<a href="https://github.com/kyjl97"><img src="https://img.shields.io/badge/💻_GitHub_@kyjl97-0f172a?style=for-the-badge&logo=github&logoColor=fde68a" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/💬_微信公众号_得救之道-0f172a?style=for-the-badge&logo=wechat&logoColor=07c160" alt="微信公众号：得救之道"/>
+
+<br/><br/>
+
+*⚡ 保持好奇，持续记录，在每一次阅读中看见盼望与方向。*
+
 </div>
