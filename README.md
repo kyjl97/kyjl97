@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyjl97/kyjl97/ffe0feca9d46b396e0e4c9c84e23e1c6333d2ebe/assets/banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyjl97/kyjl97/ffe0feca9d46b396e0e4c9c84e23e1c6333d2ebe/assets/banner.svg">
-  <img src="https://raw.githubusercontent.com/kyjl97/kyjl97/ffe0feca9d46b396e0e4c9c84e23e1c6333d2ebe/assets/banner.svg" alt="得救之道 — 内容记录与 AI 探索" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyjl97/kyjl97/main/assets/banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyjl97/kyjl97/main/assets/banner.svg">
+  <img src="https://raw.githubusercontent.com/kyjl97/kyjl97/main/assets/banner.svg" alt="得救之道 — 内容记录与 AI 探索" width="100%"/>
 </picture>
 
 </div>
@@ -14,7 +14,7 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/kyjl97/kyjl97/ffe0feca9d46b396e0e4c9c84e23e1c6333d2ebe/assets/lanyard.svg" alt="得救之道个人工牌" width="250"/>
+<img src="./assets/logo.png" alt="得救之道 Logo" width="250"/>
 
 </td>
 <td width="70%" valign="middle">
@@ -28,7 +28,7 @@
 - 📚 实践 **知识管理与写作工作流**——从收集、整理走向稳定输出
 - 🌐 建设 **个人网站与独立博客**——打造属于自己的长期内容空间
 - 🛠️ 坚持 **用小项目验证想法**——边学习、边实践、边分享
-- 📫 个人主页：**[fix.jieliu.me](https://fix.jieliu.me/)**
+- 📫 个人主页：**[jieliu.me](https://jieliu.me/)**
 
 <p>💬 公众号微信搜「得救之道」或扫码关注 ↓</p>
 <img src="./assets/wechat-qr.png" alt="得救之道公众号二维码" width="220" hspace="24"/>
@@ -36,6 +36,33 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 🧭 统一入口
+
+| 入口 | 用途 |
+| :--- | :--- |
+| **[项目主页](https://kyjl97.github.io/)** | 汇总内容、作品、在线工具与仓库 |
+| **[个人主页](https://jieliu.me/)** | 得救之道的长期个人入口 |
+| **[Firefly 博客](https://kyjl97.github.io/Firefly/)** | AI、软件、工作流和技术实践 |
+| **[精选导航](https://kyjl97.github.io/nav/)** | 常用网站与效率工具 |
+| **[数字工坊](https://kyjl97.github.io/Shopping/)** | 项目与数字产品集合 |
+
+> 推荐从项目主页进入，各站点继续使用 `kyjl97.github.io`，个人主页链接使用 `jieliu.me`。
+
+<br/>
+
+## ✨ 精选项目
+
+| 项目 | 简介 | 入口 |
+| :--- | :--- | :--- |
+| **Firefly** | AI、软件与工作流主题博客 | [在线阅读](https://kyjl97.github.io/Firefly/) |
+| **知识库** | 将笔记、经验和长期思考整理成数字花园 | [打开知识库](https://kyjl97.github.io/ocdsync/) |
+| **Content OS** | 面向创作者的内容生产与管理系统 | [查看仓库](https://github.com/kyjl97/content-os) |
+| **知言 Voice Agent** | 支持语音交互和桌面操作的 AI 助手 | [查看仓库](https://github.com/kyjl97/zhiyan-Voice-Agent) |
+| **Obsidian Vault Template** | 知识管理与写作工作流模板 | [查看仓库](https://github.com/kyjl97/obsidian-vault-template) |
+| **在线工具集** | 计算器、密码生成、卡片制作与网络检测 | [立即使用](https://kyjl97.github.io/#tools) |
 
 <br/>
 
@@ -134,7 +161,7 @@
 
 <div align="center">
 
-<a href="https://fix.jieliu.me/"><img src="https://img.shields.io/badge/🌐_得救之道主页-0f172a?style=for-the-badge&logo=cloudflare&logoColor=f97316" alt="得救之道主页"/></a>
+<a href="https://jieliu.me/"><img src="https://img.shields.io/badge/🌐_得救之道主页-0f172a?style=for-the-badge&logo=cloudflare&logoColor=f97316" alt="得救之道主页"/></a>
 <a href="https://github.com/kyjl97"><img src="https://img.shields.io/badge/💻_GitHub_@kyjl97-0f172a?style=for-the-badge&logo=github&logoColor=fde68a" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/💬_微信公众号_得救之道-0f172a?style=for-the-badge&logo=wechat&logoColor=07c160" alt="微信公众号：得救之道"/>
 
